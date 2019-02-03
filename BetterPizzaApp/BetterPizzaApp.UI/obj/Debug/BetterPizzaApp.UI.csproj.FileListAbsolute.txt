@@ -1,0 +1,17 @@
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.UI.exe.config
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.UI.exe
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.UI.pdb
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.Library.dll
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.Library.pdb
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.csprojAssemblyReference.cache
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.Properties.Resources.resources
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.csproj.GenerateResource.cache
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.csproj.CoreCompileInputs.cache
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.csproj.CopyComplete
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.exe
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.pdb
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.LoginForm.resources
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\MySql.Data.dll
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\Google.Protobuf.dll
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\MySql.Data.xml
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\Google.Protobuf.xml
