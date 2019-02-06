@@ -56,6 +56,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Configuration.cs" />
+    <Compile Include="Logic\DrinkLogic.cs" />
+    <Compile Include="Logic\PizzaLogic.cs" />
+    <Compile Include="Logic\ReceiptLogic.cs" />
+    <Compile Include="Logic\SideLogic.cs" />
     <Compile Include="Models\DrinkModel.cs" />
     <Compile Include="Models\PizzaModel.cs" />
     <Compile Include="Models\ReceiptModel.cs" />
@@ -63,7 +67,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Storage\ConnectionBuilder.cs" />
     <Compile Include="Storage\InitialiseDatabase.cs" />
-    <Compile Include="Storage\LoginAuthenticator.cs" />
+    <Compile Include="Storage\EmployeeAuthenticator.cs" />
+    <Compile Include="Storage\ReceiptUtils.cs" />
     <Compile Include="Storage\ReceiptUploader.cs" />
   </ItemGroup>
   <ItemGroup>

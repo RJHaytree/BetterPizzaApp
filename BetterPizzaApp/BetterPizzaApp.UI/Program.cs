@@ -23,6 +23,7 @@ namespace BetterPizzaApp.UI
 
             // Generate tables on load (if not present already)
             BetterPizzaApp.Library.Storage.InitialiseDatabase.CreateTables();
+
             // Load login form
             Application.Run(new LoginForm());
         }

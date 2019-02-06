@@ -26,10 +26,10 @@ namespace BetterPizzaApp.UI
             if (!string.IsNullOrWhiteSpace(txtUsername.Text) && !string.IsNullOrWhiteSpace(txtPassword.Text))
             {
                 // if method returns true, login successful and create new order form.
-                if (LoginAuthenticator.CheckCredentials(txtUsername.Text, txtPassword.Text))
+                if (EmployeeAuthenticator.CheckCredentials(txtUsername.Text, txtPassword.Text))
                 {
                     MessageBox.Show("Login successful!");
-                    OrderForm orderForm = new OrderForm();
+                    OrderForm orderForm = new OrderForm(EmployeeAuthenticator.EmployeeKey);
                     orderForm.Show();
                     this.Hide();
                 }
