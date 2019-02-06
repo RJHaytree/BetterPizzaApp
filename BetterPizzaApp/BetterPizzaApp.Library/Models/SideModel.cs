@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace BetterPizzaApp.Library.Models
+﻿namespace BetterPizzaApp.Library.Models
 {
     /// <summary>
     /// Model used for every side in the order. Must receive a 

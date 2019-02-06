@@ -14,6 +14,11 @@ namespace BetterPizzaApp.Library
             Database = GetDatabase();
             Password = GetPassword();
             EmployeeTbl = GetEmployeeTbl();
+            ReceiptTbl = GetReceiptTbl();
+            PizzaTbl = GetPizzaTbl();
+            SideTbl = GetSideTbl();
+            DrinkTbl = GetDrinkTbl();
+            CustomerTbl = GetCustomerTbl();
         }
 
         /// <summary>
@@ -42,6 +47,31 @@ namespace BetterPizzaApp.Library
         /// Name of employee table - used in sql statements
         /// </summary>
         public static string EmployeeTbl { get; private set; }
+
+        /// <summary>
+        /// Name of receipt table - used in sql statements
+        /// </summary>
+        public static string ReceiptTbl { get; private set; }
+
+        /// <summary>
+        /// Name of pizza table - used for sql statements
+        /// </summary>
+        public static string PizzaTbl { get; private set; }
+
+        /// <summary>
+        /// Name of side table - used for sql statements
+        /// </summary>
+        public static string SideTbl { get; private set; }
+
+        /// <summary>
+        /// Name of drink table - used for sql statements
+        /// </summary>
+        public static string DrinkTbl { get; private set; }
+
+        /// <summary>
+        /// Name of customer table - used for sql statements
+        /// </summary>
+        public static string CustomerTbl { get; private set; }
 
         /// <summary>
         /// Private method which returns hostname from app.config
@@ -86,6 +116,51 @@ namespace BetterPizzaApp.Library
         private static string GetEmployeeTbl()
         {
             return ConfigurationManager.AppSettings["tbl_employee"];
+        }
+
+        /// <summary>
+        /// Private method which returns receipt table name
+        /// </summary>
+        /// <returns>Receipt table name as a string</returns>
+        private static string GetReceiptTbl()
+        {
+            return ConfigurationManager.AppSettings["tbl_receipts"];
+        }
+
+        /// <summary>
+        /// Private method which returns pizza table name
+        /// </summary>
+        /// <returns>Pizza table name as a string</returns>
+        private static string GetPizzaTbl()
+        {
+            return ConfigurationManager.AppSettings["tbl_pizzas"];
+        }
+
+        /// <summary>
+        /// Private method which returns side table name
+        /// </summary>
+        /// <returns>Side table name as a string</returns>
+        private static string GetSideTbl()
+        {
+            return ConfigurationManager.AppSettings["tbl_sides"];
+        }
+
+        /// <summary>
+        /// Private method which returns drink table name 
+        /// </summary>
+        /// <returns>Drink table name as a string</returns>
+        private static string GetDrinkTbl()
+        {
+            return ConfigurationManager.AppSettings["tbl_drinks"];
+        }
+
+        /// <summary>
+        /// Private method which returns customer table name
+        /// </summary>
+        /// <returns>Customer table name as a string</returns>
+        private static string GetCustomerTbl()
+        {
+            return ConfigurationManager.AppSettings["tbl_customers"];
         }
     }
 }

@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace BetterPizzaApp.Library.Models
 {
@@ -47,11 +43,6 @@ namespace BetterPizzaApp.Library.Models
         /// </summary>
         public List<DrinkModel> DrinkList { get; set; } = new List<DrinkModel>();
 
-        /// <summary>
-        /// Represents the final list of deals which has been applied to this order.
-        /// </summary>
-        public List<string> DealList { get; set; } = new List<string>();
-
         // Order cost / Monetary values
 
         /// <summary>
@@ -68,5 +59,10 @@ namespace BetterPizzaApp.Library.Models
         /// Represents the final price of this order. Base pice + delivery cost.
         /// </summary>
         public decimal OrderReceiptCost { get; set; }
+
+        /// <summary>
+        /// Represents the employee key of the employee creating this order.
+        /// </summary>
+        public string EmployeeKey { get; set; }
     }
 }

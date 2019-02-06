@@ -9,3 +9,13 @@ I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\bin\Debug\MySql.Data.
 I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\bin\Debug\Google.Protobuf.xml
 I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\bin\Debug\MySql.Data.xml
 I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\obj\Debug\BetterPizzaApp.Library.csproj.CopyComplete
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\bin\Debug\BetterPizzaApp.Library.dll
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\bin\Debug\BetterPizzaApp.Library.pdb
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\bin\Debug\Google.Protobuf.dll
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\bin\Debug\MySql.Data.dll
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\bin\Debug\Google.Protobuf.xml
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\bin\Debug\MySql.Data.xml
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\obj\Debug\BetterPizzaApp.Library.csprojResolveAssemblyReference.cache
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\obj\Debug\BetterPizzaApp.Library.csproj.CoreCompileInputs.cache
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\obj\Debug\BetterPizzaApp.Library.dll
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.Library\obj\Debug\BetterPizzaApp.Library.pdb

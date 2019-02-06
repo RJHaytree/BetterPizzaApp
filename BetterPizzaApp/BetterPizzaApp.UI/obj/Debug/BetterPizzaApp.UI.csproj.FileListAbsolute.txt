@@ -15,3 +15,21 @@ I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\MySql.Data.dll
 I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\Google.Protobuf.dll
 I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\MySql.Data.xml
 I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\Google.Protobuf.xml
+I:\C#\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.OrderForm.resources
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.UI.exe.config
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.UI.exe
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.UI.pdb
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.Library.dll
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\MySql.Data.dll
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\Google.Protobuf.dll
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\BetterPizzaApp.Library.pdb
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\MySql.Data.xml
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\bin\Debug\Google.Protobuf.xml
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.csprojResolveAssemblyReference.cache
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.LoginForm.resources
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.OrderForm.resources
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.Properties.Resources.resources
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.csproj.GenerateResource.Cache
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.csproj.CoreCompileInputs.cache
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.exe
+U:\My Desktop\BetterPizzaApp\BetterPizzaApp\BetterPizzaApp.UI\obj\Debug\BetterPizzaApp.UI.pdb
